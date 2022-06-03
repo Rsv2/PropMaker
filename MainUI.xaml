@@ -72,13 +72,13 @@
                     VerticalAlignment="Top"
                     Width="235"
                     SelectedItem="{Binding SelectedType}">
-            <i:Interaction.Triggers>
-                <i:EventTrigger EventName="SelectionChanged">
-                    <i:InvokeCommandAction Command="{Binding SelectionChanged}"/>
-                </i:EventTrigger>
-            </i:Interaction.Triggers>
+            <ComboBoxItem Content="bool"/>
             <ComboBoxItem Content="int"/>
+            <ComboBoxItem Content="double"/>
             <ComboBoxItem Content="string"/>
+            <ComboBoxItem Content="List"/>
+            <ComboBoxItem Content="Visibility"/>
+            <ComboBoxItem Content="ObservableCollection"/>
             <ComboBoxItem Content="RelayCommand"/>
         </ComboBox>
         <TextBox 
