@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31702.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PropMaker", "PropMaker.csproj", "{62C0A142-A19C-4FAE-84CA-CF51982B5A1D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{62C0A142-A19C-4FAE-84CA-CF51982B5A1D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{62C0A142-A19C-4FAE-84CA-CF51982B5A1D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{62C0A142-A19C-4FAE-84CA-CF51982B5A1D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{62C0A142-A19C-4FAE-84CA-CF51982B5A1D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9E53EF93-18D1-4500-9B22-D2DD693D9EC0}
+	EndGlobalSection
+EndGlobal
