@@ -8,4 +8,4 @@
 
 Данные будут автоматически поделены на 3 региона Поля, Свойства и Команды.
 
-[!Видео](https://www.youtube.com/watch?v=R0_4aNNEtMU)
+[![Видео](http://img.youtube.com/vi/R0_4aNNEtMU/0.jpg)](http://youtu.be/R0_4aNNEtMU)
